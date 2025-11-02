@@ -1,0 +1,11 @@
+# videos datasets
+.vscode/
+test/
+0219/
+videos/
+watch/
+# csvs/
+
+# files
+*.exe
+*.mp4
