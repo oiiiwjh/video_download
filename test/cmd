@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=PySzLfnAeuE
+yt-dlp -F --list-formats  https://www.youtube.com/watch\?v\=PySzLfnAeuE --cookies cookie_1102.txt --geo-verification-proxy https://127.0.0.1:7897
